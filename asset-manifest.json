@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-drum-machine/static/css/main.073c9b0a.css",
+    "main.js": "/react-drum-machine/static/js/main.265639e7.js",
+    "static/js/787.9bebe1e4.chunk.js": "/react-drum-machine/static/js/787.9bebe1e4.chunk.js",
+    "static/media/fart1.mp3": "/react-drum-machine/static/media/fart1.855b4a868f1fc03669fe.mp3",
+    "static/media/fart2.mp3": "/react-drum-machine/static/media/fart2.169cd561356ad5ab8314.mp3",
+    "static/media/fart6.mp3": "/react-drum-machine/static/media/fart6.319b96670d487d7ea509.mp3",
+    "static/media/fart9.mp3": "/react-drum-machine/static/media/fart9.ea2c70c445df32fa7cbf.mp3",
+    "static/media/fart7.mp3": "/react-drum-machine/static/media/fart7.4f9bf3496731e3e21713.mp3",
+    "static/media/fart8.mp3": "/react-drum-machine/static/media/fart8.bec2fdb1985b8f50ced6.mp3",
+    "static/media/fart3.mp3": "/react-drum-machine/static/media/fart3.dcaadceda6fcb6862673.mp3",
+    "static/media/fart5.mp3": "/react-drum-machine/static/media/fart5.1e5453b8b0e317e20bb9.mp3",
+    "static/media/fart4.mp3": "/react-drum-machine/static/media/fart4.8487e30d802645a21be9.mp3",
+    "index.html": "/react-drum-machine/index.html",
+    "main.073c9b0a.css.map": "/react-drum-machine/static/css/main.073c9b0a.css.map",
+    "main.265639e7.js.map": "/react-drum-machine/static/js/main.265639e7.js.map",
+    "787.9bebe1e4.chunk.js.map": "/react-drum-machine/static/js/787.9bebe1e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.265639e7.js"
+  ]
+}
